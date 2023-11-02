@@ -13,7 +13,7 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 
 * [GH Classroom-Hecho](https://classroom.github.com/classrooms/149099772-ull-mfp-aet-2324-alu0100762341)
 * [Organización de Clase-Hecho](https://github.com/ull-mfp-aet-2324-alu0100762341/ull-mfp-aet-2324-alu0100762341)
-* [Profesor]()
+* [Profesor-Hecho](https://github.com/Daniafonso11)
 * Alumnos en la organización
   * [Alumno 1]()
   * [Alumno 2]()
