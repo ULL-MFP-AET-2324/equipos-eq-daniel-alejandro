@@ -15,8 +15,10 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 * [Organización de Clase-Hecho](https://github.com/ull-mfp-aet-2324-alu0100762341/ull-mfp-aet-2324-alu0100762341)
 * [Profesor-Hecho](https://github.com/Daniafonso11)
 * Alumnos en la organización
-  * [Alumno 1]()
-  * [Alumno 2]()
+  * [Casiano Alumno](https://github.com/casiano-rodriguez)
+  * [Airam Gonzalez](https://github.com/falcon47)
+  * [Alejandro Rodriguez](https://github.com/Alejandrofonte)
+
 
 ## Alumno 2: Alejandro Rodriguez
 
@@ -24,5 +26,5 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 * [Organización de Clase]()
 * [Profesor]()
 * Alumnos en la organización
-  * [Alumno 1]()
+  * [Casiano Alumno](https://github.com/casiano-rodriguez)
   * [Alumno 2]()
