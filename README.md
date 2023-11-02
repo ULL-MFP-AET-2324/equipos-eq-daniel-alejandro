@@ -12,7 +12,7 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 ## Alumno 1: Daniel Afonso
 
 * [GH Classroom](https://classroom.github.com/classrooms/149099772-ull-mfp-aet-2324-alu0100762341)
-* [Organización de Clase]()
+* [Organización de Clase](https://github.com/ull-mfp-aet-2324-alu0100762341/ull-mfp-aet-2324-alu0100762341)
 * [Profesor]()
 * Alumnos en la organización
   * [Alumno 1]()
