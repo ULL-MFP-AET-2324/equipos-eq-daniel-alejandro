@@ -22,9 +22,9 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 
 ## Alumno 2: Alejandro Rodriguez
 
-* [GH Classroom]()
-* [Organización de Clase]()
+* [GH Classroom - Pendiente que Alejandro meta su enlace]()
+* [Organización de Clase - Pendiente que Alejandro meta su enlace]()
 * [Profesor - Hecho](https://github.com/Alejandrofonte)
-* Alumnos en la organización
-  * [Casiano Alumno](https://github.com/casiano-rodriguez)
+* Alumnos en la organización: Pendiente que Alejandro meta su enlace
+  * [Alumno 1]()
   * [Alumno 2]()
