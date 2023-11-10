@@ -22,9 +22,10 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 
 ## Alumno 2: Alejandro Rodriguez
 
-* [GH Classroom - Pendiente que Alejandro meta su enlace]()
-* [Organización de Clase - Pendiente que Alejandro meta su enlace]()
+* [GH Classroom](https://classroom.github.com/classrooms/149101820-ull-mfp-aet-2324-alu0100774252)
+* [Organización de Clase](https://github.com/ull-mfp-aet-2324-alu0100774252)
 * [Profesor - Hecho](https://github.com/Alejandrofonte)
-* Alumnos en la organización: Pendiente que Alejandro meta su enlace
-  * [Alumno 1]()
-  * [Alumno 2]()
+* Alumnos en la organización:
+  * [Sergio Rodríguez Martín](https://github.com/orgs/ull-mfp-aet-2324-alu0100774252/people/alu0100699968)
+  * [Eduardo Miquel Hernández](https://github.com/orgs/ull-mfp-aet-2324-alu0100774252/people/eduardomhd)
+  * [Iván Jesús Torres Rodríguez](https://github.com/orgs/ull-mfp-aet-2324-alu0100774252/people/ivanjtr)
